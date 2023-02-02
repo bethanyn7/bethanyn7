@@ -1,4 +1,10 @@
 ### Hi there 👋
+Welcome to my creative workspace.
+Im currently majoring in computer science.
+I love traveling, baking and learning new things.
+Im currently learning new techniques on coding.
+Feel free to reach me though email.
+
 
 <!--
 **bethanyn7/bethanyn7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
